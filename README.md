@@ -1,13 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Md Robiul Hossen</h1>
-<h3 align="center">A passionate front End developer from Rajshahi,Bangladesh</h3>
+<h3 align="center">A passionate front End developer from Natore,Rajshahi,Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gfxrobiul&label=Profile%20views&color=0e75b6&style=flat" alt="gfxrobiul" /> </p>
 
-- 🌱 I’m currently learning **JWT Token, Node.js,Next.js**
-
-- 💬 Ask me about **React.js, MongoDB**
-
+- 🌱 I’m currently learning **Next.js**
 - 📫 How to reach me **mrhrobiul008877@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
