@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gfxrobiul&label=Profile%20views&color=0e75b6&style=flat" alt="gfxrobiul" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **s**
 - 📫 How to reach me **mrhrobiul008877@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
